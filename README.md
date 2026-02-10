@@ -34,23 +34,53 @@ The objective is to demonstrate how structured data analysis and visualization c
 
 
 ### Dataset
-Dataset
+The dataset contains daily retail sales transactions recorded between November 2025 and January 2026 for a small mini shop selling fast-moving consumer goods. Each row represents a single product purchased within a transaction.
 
-The dataset consists of daily sales transactions recorded from a small retail mini shop between November 2025 and January 2026. Each record represents a single product purchased by a customer on a specific date.
+The dataset includes:
 
-The dataset contains the following fields:
+Date — transaction date
 
-- Date — transaction date
+Items — product purchased
 
-- Items — product purchased
+Customer_ID — anonymized identifier used to protect customer identity
 
-- Customer_ID — anonymized customer identifier
+Amount — value of each transaction
 
-- Amount — transaction value
+Payment_Status — indicates whether the transaction was paid or remains unpaid
 
-- Payment_Status — indicates whether the transaction was paid or unpaid
+Customer names were replaced with unique IDs to ensure privacy while allowing customer-level analysis.
 
-Customer names were anonymized and replaced with unique customer IDs to protect privacy while maintaining analytical integrity.
+
+### Tools Used
+Microsoft Excel
+
+Excel was used for data preparation and structuring before analysis. This included:
+
+- Standardizing inconsistent date formats
+
+- Removing summary rows and non-transaction entries
+
+- Structuring the dataset so that each row represented one product purchase
+
+- Creating a clean tabular format suitable for visualization and aggregation
+
+- Ensuring consistent product naming and payment status categories
+
+
+Tableau
+
+Tableau was used to transform the prepared dataset into an interactive analytical dashboard. Specifically:
+
+- Creation of business KPIs (Total Revenue, Transactions, Customers, Unpaid Revenue, % Unpaid Revenue)
+
+- Time-series visualization to analyze daily revenue trends
+
+- Product-level revenue analysis to identify top-performing items
+
+- Payment status analysis to evaluate revenue collection performance
+
+- Identification of customers contributing most to outstanding balances
+
 
  
 
