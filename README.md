@@ -83,6 +83,33 @@ Tableau was used to transform the prepared dataset into an interactive analytica
 - Identification of customers contributing most to outstanding balances
 
 
- 
+
+## Methodology
+
+The analysis followed a structured data analysis workflow consisting of data preparation, transformation and visualization stages.
+
+### Data Preparation
+
+- Consolidated sales records into a single structured dataset
+
+- Standardized date formats to enable accurate time-based analysis
+
+- Removed non-transaction entries and ensured each row represented a single product purchase
+
+- Anonymized customer information by replacing names with unique Customer IDs
+
+- Standardized product names and payment status categories for consistency
+
+### Data Analysis
+
+- Aggregated transaction values to measure total revenue and daily sales performance
+
+- Analyzed product-level revenue to identify top-performing items
+
+- Compared paid and unpaid transactions to evaluate revenue collection performance
+
+- Calculated key performance indicators including total revenue, transaction volume and  customer count.
+
+  
 
 
