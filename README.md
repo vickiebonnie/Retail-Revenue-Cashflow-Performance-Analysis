@@ -8,3 +8,22 @@ A friend of mine owns a small neighborhood mini shop and was finding it increasi
 As a result, restocking and business decisions were often based on assumptions rather than clear data insights. This project was developed to demonstrate how simple sales data can be structured and visualized to provide clarity on revenue performance, product demand and payment behavior.
 
 The goal of the analysis is to show how data analytics can help small businesses move from intuition-based decisions to insight-driven operations.
+
+
+## Business Objectives
+
+The primary objective of this analysis is to use sales data to understand business performance and support data-driven decision-making for a small retail shop.
+
+Specifically, the analysis aims to:
+
+- Analyze total revenue performance and identify sales trends over time
+
+- Identify the products contributing most to overall revenue
+
+- Understand customer purchasing activity and transaction patterns
+
+- Evaluate payment collection performance by comparing paid and unpaid sales
+
+- Identify customers contributing most to outstanding balances to highlight potential cashflow risks
+
+The objective is to demonstrate how structured data analysis and visualization can help small businesses monitor performance, improve inventory decisions and manage revenue collection more effectively
