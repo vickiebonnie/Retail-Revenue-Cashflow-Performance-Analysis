@@ -1,5 +1,8 @@
 # Retail-Revenue-Cashflow-Performance-Analysis
 
+![mini shop sales](https://github.com/user-attachments/assets/ebc42bd2-5e3c-4d56-8c7a-7f57df9bff40)
+
+
 ## Project Overview
 A friend of mine owns a small neighborhood mini shop and was finding it increasingly difficult to track business performance as daily transactions increased. While sales were recorded regularly, it was not clear which products generated the most revenue, which customers purchased most frequently or how unpaid transactions were affecting cash flow.
 
