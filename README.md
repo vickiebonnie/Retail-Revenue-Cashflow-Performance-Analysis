@@ -112,6 +112,8 @@ The analysis followed a structured data analysis workflow consisting of data pre
 
 ## Key Insights
 
+<img width="1499" height="849" alt="Retail Revenue Cashflow Performance Analysis" src="https://github.com/user-attachments/assets/3c446c25-38bb-4941-9e8d-ab1091529cb8" />
+
 
 
 ### 📊 Interactive Dashboard
@@ -119,6 +121,8 @@ The analysis followed a structured data analysis workflow consisting of data pre
 You can view the live interactive Tableau dashboard here:
 
 👉 [View Live Dashboard on Tableau Public[(https://public.tableau.com/views/RetailRevenueandCashflowPerformance/RetailRevenueCashflowPerformanceAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
+
+
 
 
   
