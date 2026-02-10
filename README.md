@@ -27,3 +27,31 @@ Specifically, the analysis aims to:
 - Identify customers contributing most to outstanding balances to highlight potential cashflow risks
 
 The objective is to demonstrate how structured data analysis and visualization can help small businesses monitor performance, improve inventory decisions and manage revenue collection more effectively
+
+
+
+## Dataset & Tools
+
+
+### Dataset
+Dataset
+
+The dataset consists of daily sales transactions recorded from a small retail mini shop between November 2025 and January 2026. Each record represents a single product purchased by a customer on a specific date.
+
+The dataset contains the following fields:
+
+- Date — transaction date
+
+- Items — product purchased
+
+- Customer_ID — anonymized customer identifier
+
+- Amount — transaction value
+
+- Payment_Status — indicates whether the transaction was paid or unpaid
+
+Customer names were anonymized and replaced with unique customer IDs to protect privacy while maintaining analytical integrity.
+
+ 
+
+
