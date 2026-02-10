@@ -112,7 +112,14 @@ The analysis followed a structured data analysis workflow consisting of data pre
 
 ## Key Insights
 
-[ ]https://github.com/vickiebonnie/Retail-Revenue-Cashflow-Performance-Analysis/blob/main/Retail-Revenue-Cashflow-Performance-Analysis%20image.png
+
+
+### 📊 Interactive Dashboard
+
+You can view the live interactive Tableau dashboard here:
+
+👉 [View Live Dashboard on Tableau Public[(https://public.tableau.com/views/cki/RetailRevenueCashflowPerformanceAnalysis_1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
+
 
   
 
