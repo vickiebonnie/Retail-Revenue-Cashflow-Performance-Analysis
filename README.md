@@ -36,15 +36,15 @@ The dataset contains daily retail sales transactions recorded between November 2
 
 The dataset includes:
 
-Date — transaction date
+- Date — transaction date
 
-Items — product purchased
+- Items — product purchased
 
-Customer_ID — anonymized identifier used to protect customer identity
+- Customer_ID — anonymized identifier used to protect customer identity
 
-Amount — value of each transaction
+- Amount — value of each transaction
 
-Payment_Status — indicates whether the transaction was paid or remains unpaid
+- Payment_Status — indicates whether the transaction was paid or remains unpaid
 
 Customer names were replaced with unique IDs to ensure privacy while allowing customer-level analysis.
 
