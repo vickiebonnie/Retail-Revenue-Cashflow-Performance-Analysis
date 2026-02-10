@@ -1,6 +1,4 @@
 # Retail-Revenue-Cashflow-Performance-Analysis
-This project analyzes retail sales and payment behavior for a small convenience shop between November 2025 and January 2026
-
 
 ## Project Overview
 A friend of mine owns a small neighborhood mini shop and was finding it increasingly difficult to track business performance as daily transactions increased. While sales were recorded regularly, it was not clear which products generated the most revenue, which customers purchased most frequently or how unpaid transactions were affecting cash flow.
