@@ -110,6 +110,10 @@ The analysis followed a structured data analysis workflow consisting of data pre
 
 - Calculated key performance indicators including total revenue, transaction volume and  customer count.
 
+## Key Insights
+
+[ ]https://github.com/vickiebonnie/Retail-Revenue-Cashflow-Performance-Analysis/blob/main/Retail-Revenue-Cashflow-Performance-Analysis%20image.png
+
   
 
 
