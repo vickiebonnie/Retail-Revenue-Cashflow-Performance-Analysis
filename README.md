@@ -112,6 +112,7 @@ The analysis followed a structured data analysis workflow consisting of data pre
 
 ## Key Insights
 
+
 <img width="1499" height="849" alt="Retail Revenue Cashflow Performance Analysis" src="https://github.com/user-attachments/assets/3c446c25-38bb-4941-9e8d-ab1091529cb8" />
 
 
