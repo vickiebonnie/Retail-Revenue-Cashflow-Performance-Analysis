@@ -144,7 +144,7 @@ The analysis shows that the shop maintains stable revenue driven by a small grou
 
 ## Recommendations
 
-- Prioritize high-performing products such as Kalypo, Simply Good Biscuit, and Cowbell Coffee by maintaining consistent stock levels and using them to drive bundled sales.
+- Prioritize high-performing products such as Kalypo, Simply Good Biscuit  and Cowbell Coffee by maintaining consistent stock levels and using them to drive bundled sales.
 
 - Improve sales of low-performing products through bundle offers, small discounts or better product placement alongside fast-moving items.
 
