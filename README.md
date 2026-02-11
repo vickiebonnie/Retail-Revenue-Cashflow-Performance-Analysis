@@ -136,7 +136,9 @@ You can view the live interactive Tableau dashboard here:
 
 
 
-  
+  ## Conclusion
+
+The analysis shows that the shop maintains stable revenue driven by a small group of high-performing products and loyal customers. While overall collection performance remains strong, unpaid revenue presents a manageable but important cashflow risk. By improving payment monitoring and strategically promoting products, the business can strengthen revenue consistency, reduce outstanding balances and support sustainable growth.
 
 
 
