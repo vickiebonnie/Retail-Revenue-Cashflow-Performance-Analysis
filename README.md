@@ -115,6 +115,17 @@ The analysis followed a structured data analysis workflow consisting of data pre
 
 <img width="1499" height="849" alt="Retail Revenue Cashflow Performance Analysis" src="https://github.com/user-attachments/assets/3c446c25-38bb-4941-9e8d-ab1091529cb8" />
 
+## Key Business Insights
+
+-  Revenue remained stable from November 2025 to January 2026, with a short decline in late December followed by recovery in January, indicating consistent demand.
+  
+- Sales performance is highly driven by a few key products — Kalypo, Simply Good Biscuit, and Cowbell Coffee contribute the largest share of revenue.
+  
+- 91% of revenue has been collected, while 9% remains outstanding, indicating moderate cashflow risk concentrated among a small group of customers.
+  
+-  Outstanding balances are driven mainly by a few customers, highlighting an opportunity to strengthen payment follow-ups and credit control.
+
+
 
 
 ### 📊 Interactive Dashboard
