@@ -118,7 +118,7 @@ The analysis followed a structured data analysis workflow consisting of data pre
 
 -  Revenue remained stable from November 2025 to January 2026, with a short decline in late December followed by recovery in January, indicating consistent demand.
   
-- Sales performance is highly driven by a few key products — Kalypo, Simply Good Biscuit, and Cowbell Coffee contribute the largest share of revenue.
+- Sales performance is highly driven by a few key products  Kalypo, Simply Good Biscuit, and Cowbell Coffee contribute the largest share of revenue.
   
 - 91% of revenue has been collected, while 9% remains outstanding, indicating moderate cashflow risk concentrated among a small group of customers.
   
