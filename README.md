@@ -142,4 +142,14 @@ The analysis shows that the shop maintains stable revenue driven by a small grou
 
 
 
+## Recommendations
 
+- Prioritize high-performing products such as Kalypo, Simply Good Biscuit, and Cowbell Coffee by maintaining consistent stock levels and using them to drive bundled sales.
+
+- Improve sales of low-performing products through bundle offers, small discounts or better product placement alongside fast-moving items.
+
+- Strengthen payment monitoring and follow-up, especially for customers with repeated unpaid purchases to reduce cashflow risk.
+
+- Introduce simple credit control measures, such as limiting unpaid balances or encouraging immediate payment for frequent customers.
+
+- Regularly monitor sales and payment trends to support better restocking decisions and maintain stable revenue performance.
