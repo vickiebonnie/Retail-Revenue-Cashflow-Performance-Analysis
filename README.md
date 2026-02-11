@@ -1,4 +1,4 @@
-# Retail-Revenue-Cashflow-Performance-Analysis
+# Retail Revenue Cashflow Performance Analysis
 
 ![mini shop sales](https://github.com/user-attachments/assets/ebc42bd2-5e3c-4d56-8c7a-7f57df9bff40)
 
