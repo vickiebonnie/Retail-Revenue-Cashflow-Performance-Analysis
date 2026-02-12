@@ -52,61 +52,23 @@ The reporting framework produced:
 - Executive-ready dashboard for management reporting
 
 
-## Tools Used
-
-Microsoft Excel (Data Cleaning & Analysis)
-
-Tableau (Dashboard Visualization)
 
 
-
-
-
-
-
-## Methodology
-
-The analysis followed a structured data analysis workflow consisting of data preparation, transformation and visualization stages.
-
-### Data Preparation
-
-- Consolidated sales records into a single structured dataset
-
-- Standardized date formats to enable accurate time-based analysis
-
-- Removed non-transaction entries and ensured each row represented a single product purchase
-
-- Anonymized customer information by replacing names with unique Customer IDs
-
-- Standardized product names and payment status categories for consistency
-
-### Data Analysis
-
-- Aggregated transaction values to measure total revenue and daily sales performance
-
-- Analyzed product-level revenue to identify top-performing items
-
-- Compared paid and unpaid transactions to evaluate revenue collection performance
-
-- Calculated key performance indicators including total revenue, transaction volume and  customer count.
-
-## Key Insights
+## Executive Management Reporting Dashboard
 
 
 <img width="1499" height="849" alt="Retail Revenue   Cashflow Management Report (1)" src="https://github.com/user-attachments/assets/f5c63317-eee4-4172-9e0f-5e80a2d8e6e8" />
 
+The dashboard provides management with a high-level overview of performance trends and cashflow risk drivers.
 
 
--  Revenue remained stable from November 2025 to January 2026, with a short decline in late December followed by recovery in January, indicating consistent demand.
-  
-- Sales performance is highly driven by a few key products  Kalypo, Simply Good Biscuit, and Cowbell Coffee contribute the largest share of revenue.
-  
-- 91% of revenue has been collected, while 9% remains outstanding, indicating moderate cashflow risk concentrated among a small group of customers.
-  
--  Outstanding balances are driven mainly by a few customers, highlighting an opportunity to strengthen payment follow-ups and credit control.
+## Key Insights
 
+- Revenue performance remained stable across the reporting period.
 
+- Revenue contribution was concentrated among a small number of products.
 
+- Cashflow exposure was driven by a small group of customers with outstanding receivables.
 
 ### 📊 Interactive Dashboard
 
@@ -117,20 +79,25 @@ You can view the live interactive Tableau dashboard here:
 
 
 
-  ## Conclusion
+## Conclusion
 
-The analysis shows that the shop maintains stable revenue driven by a small group of high-performing products and loyal customers. While overall collection performance remains strong, unpaid revenue presents a manageable but important cashflow risk. By improving payment monitoring and strategically promoting products, the business can strengthen revenue consistency, reduce outstanding balances and support sustainable growth.
+Revenue performance remained stable during the reporting period, with sales concentrated among a small number of products. While overall collection performance was strong, outstanding receivables indicate moderate cashflow exposure driven by a small group of customers.
 
 
 
 ## Recommendations
 
-- Prioritize high-performing products such as Kalypo, Simply Good Biscuit  and Cowbell Coffee by maintaining consistent stock levels and using them to drive bundled sales.
+- Monitor outstanding receivables regularly through KPI tracking to reduce cashflow risk.
 
-- Improve sales of low-performing products through bundle offers, small discounts or better product placement alongside fast-moving items.
+- Prioritize follow-up on customers contributing the highest unpaid balances.
 
-- Strengthen payment monitoring and follow-up, especially for customers with repeated unpaid purchases to reduce cashflow risk.
+- Maintain monthly revenue performance reporting to support forecasting and operational planning.
 
-- Introduce simple credit control measures, such as limiting unpaid balances or encouraging immediate payment for frequent customers.
+- Review product concentration risk to ensure revenue stability.
 
-- Regularly monitor sales and payment trends to support better restocking decisions and maintain stable revenue performance.
+
+## Tools Used
+
+Microsoft Excel (Data Cleaning & Analysis)
+
+Tableau (Dashboard Visualization)
