@@ -1,86 +1,66 @@
-# Retail Revenue Cashflow Performance Analysis
+## Management Reporting & Cashflow Performance Analysis
 
 ![mini shop sales](https://github.com/user-attachments/assets/ebc42bd2-5e3c-4d56-8c7a-7f57df9bff40)
 
 
 ## Project Overview
-A friend of mine owns a small neighborhood mini shop and was finding it increasingly difficult to track business performance as daily transactions increased. While sales were recorded regularly, it was not clear which products generated the most revenue, which customers purchased most frequently or how unpaid transactions were affecting cash flow.
+This project demonstrates the development of a management reporting framework designed to help business stakeholders monitor revenue performance, identify cashflow risks and support executive decision-making through structured KPI reporting and data visualization.
 
-As a result, restocking and business decisions were often based on assumptions rather than clear data insights. This project was developed to demonstrate how simple sales data can be structured and visualized to provide clarity on revenue performance, product demand and payment behavior.
-
-The goal of the analysis is to show how data analytics can help small businesses move from intuition-based decisions to insight-driven operations.
+The objective was to transform operational sales and payment data into clear, actionable insights that management could use for performance monitoring and financial planning.
 
 
-## Business Objectives
+## Business Context
 
-The primary objective of this analysis is to use sales data to understand business performance and support data-driven decision-making for a small retail shop.
+A small retail business required improved visibility into revenue performance and delayed customer payments impacting cashflow stability. Existing records provided transactional data but lacked structured reporting needed for decision-making.
 
-Specifically, the analysis aims to:
+This project focused on organizing financial data into a reporting format that enables management to:
 
-- Analyze total revenue performance and identify sales trends over time
+- Monitor revenue trends over time
 
-- Identify the products contributing most to overall revenue
+- Identify unpaid or delayed revenue
 
-- Understand customer purchasing activity and transaction patterns
+- Understand customer payment behavior
 
-- Evaluate payment collection performance by comparing paid and unpaid sales
-
-- Identify customers contributing most to outstanding balances to highlight potential cashflow risks
-
-The objective is to demonstrate how structured data analysis and visualization can help small businesses monitor performance, improve inventory decisions and manage revenue collection more effectively
+- Detect potential cashflow risks early
 
 
+## Project Objectives
 
-## Dataset & Tools
+- Structure raw operational data into a management reporting format
 
+- Develop key performance indicators (KPIs) for performance monitoring
 
-### Dataset
-The dataset contains daily retail sales transactions recorded between November 2025 and January 2026 for a small mini shop selling fast-moving consumer goods. Each row represents a single product purchased within a transaction.
+- Analyze revenue trends and payment patterns
 
-The dataset includes:
+- Present insights in a format accessible to non-technical stakeholders
 
-- Date — transaction date
-
-- Items — product purchased
-
-- Customer_ID — anonymized identifier used to protect customer identity
-
-- Amount — value of each transaction
-
-- Payment_Status — indicates whether the transaction was paid or remains unpaid
-
-Customer names were replaced with unique IDs to ensure privacy while allowing customer-level analysis.
+- Support decision-making through clear visual reporting
 
 
-### Tools Used
-Microsoft Excel
+## Management Reporting Outputs
 
-Excel was used for data preparation and structuring before analysis. This included:
+The reporting framework produced:
 
-- Standardizing inconsistent date formats
+- Revenue performance KPIs
 
-- Removing summary rows and non-transaction entries
+- Cashflow risk identification through unpaid revenue analysis
 
-- Structuring the dataset so that each row represented one product purchase
+- Customer payment behavior insights
 
-- Creating a clean tabular format suitable for visualization and aggregation
+- Monthly revenue performance tracking
 
-- Ensuring consistent product naming and payment status categories
+- Executive-ready dashboard for management reporting
 
 
-Tableau
+## Tools Used
 
-Tableau was used to transform the prepared dataset into an interactive analytical dashboard. Specifically:
+Microsoft Excel (Data Cleaning & Analysis)
 
-- Creation of business KPIs (Total Revenue, Transactions, Customers, Unpaid Revenue, % Unpaid Revenue)
+Tableau (Dashboard Visualization)
 
-- Time-series visualization to analyze daily revenue trends
 
-- Product-level revenue analysis to identify top-performing items
 
-- Payment status analysis to evaluate revenue collection performance
 
-- Identification of customers contributing most to outstanding balances
 
 
 
